@@ -192,6 +192,8 @@ UPROGS=\
 	$U/_primes\
 	$U/_pingpong\
 	$U/_test\
+	$U/_find\
+
 
 
 
