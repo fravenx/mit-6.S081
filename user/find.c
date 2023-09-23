@@ -63,7 +63,6 @@ main(int argc, char *argv[])
     fprintf(2, "find args err\n");
     exit(1);
   }
-  printf("begin\n");
   find(argv[1],argv[2]);
   exit(0);
 }

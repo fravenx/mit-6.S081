@@ -193,6 +193,10 @@ UPROGS=\
 	$U/_pingpong\
 	$U/_test\
 	$U/_find\
+	$U/_xargs\
+	
+
+
 
 
 
